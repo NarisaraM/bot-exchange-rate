@@ -1,0 +1,4 @@
+# date	currency	buying_sight	buying_transfer	selling	weighted_avg_interbank	fetched_at_utc
+2026-09-04	USD	32.6896	32.7690	33.0913	32.932	2026-09-06T03:05:49Z
+2026-09-04	EUR	37.8682	37.9589	38.6234	-	2026-09-06T03:05:49Z
+2026-09-04	JPY	20.7007	20.7913	21.4437	-	2026-09-06T03:05:49Z
